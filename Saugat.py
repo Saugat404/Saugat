@@ -147,14 +147,14 @@ def menu_apikey():
 
   os.system(" clear")                          
   print("""\x1b[1;97m
-             ____       _      _   _    ____      _      _____
+ ____       _      _   _    ____      _      _____
 / ___|     / \    | | | |  / ___|    / \    |_   _|
 \___ \    / _ \   | | | | | |  _    / _ \     | |
  ___) |  / ___ \  | |_| | | |_| |  / ___ \    | |
 |____/  /_/   \_\  \___/   \____| /_/   \_\   |_|
     ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   : SM SAUGAT RIDOY            │
-    │ [✓] GITHUB   : Saugat404                │
+    │ [✓] AUTHOR   : SM SAUGAT RIDOY        │
+    │ [✓] GITHUB   : Saugat404              │
     │ [✓] WHATSAPP : +9779742260519         │
     │ [✓] VERSION  : XXNX                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
