@@ -200,14 +200,14 @@ def menu_apikey():
     	menu_apikey()
 menu_apikey()
 logo=(f"""\x1b[1;97m
-     ____       _      _   _    ____      _      _____
+ ____       _      _   _    ____      _      _____
 / ___|     / \    | | | |  / ___|    / \    |_   _|
 \___ \    / _ \   | | | | | |  _    / _ \     | |
  ___) |  / ___ \  | |_| | | |_| |  / ___ \    | |
 |____/  /_/   \_\  \___/   \____| /_/   \_\   |_|
     ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   : SM SAUGAT RIDOY            │
-    │ [✓] GITHUB   : SAUGAT.XXNX                │
+    │ [✓] AUTHOR   : SM SAUGAT RIDOY        │
+    │ [✓] GITHUB   : SAUGAT.XXNX            │
     │ [✓] WHATSAPP : +9779842260519         │
     │ [✓] VERSION  : XNXX                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
